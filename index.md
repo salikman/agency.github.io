@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<<<<<<< HEAD
 {%- for post in site.categories.jekyll -%}
 
          <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
@@ -10,10 +9,4 @@ layout: default
         {{ post.content }}<hr />
 
 {%- endfor -%}
-=======
-{% for post in site.categories.jekyll %}
 
-    {{ post.title }}
-
-{% endfor %}
->>>>>>> ef8c812518ed7d7bd525dbaef0e96108dd6f34ca
