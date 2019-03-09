@@ -1,2 +1,0 @@
-"# ikea-kitchens" 
-# ikea-kitchens
