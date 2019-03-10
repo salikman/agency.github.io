@@ -1,10 +1,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Jekyll v3.8.5">
-    <title>{% if site.title == "Главная" %}Главная{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{% if page.description %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.3/examples/starter-template/">
 
