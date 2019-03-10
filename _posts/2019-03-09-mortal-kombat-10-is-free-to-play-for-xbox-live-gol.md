@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Mortal Kombat 10 Is Free To Play For Xbox Live Gold Members This Weekend
-description: There are plenty of perks that come with being an Xbox Live Gold
-crumbtitle: Mortal Kombat 10
+title:  "Mortal Kombat 10 Is Free To Play For Xbox Live Gold Members This Weekend"
+description: "There are plenty of perks that come with being an Xbox Live Gold"
+crumbtitle: "Mortal Kombat 10"
 ---
 There are plenty of perks that come with being an Xbox Live Gold member--getting access to monthly free game giveaways is just one--and the latest bonus will be of particular interest for fighting game enthusiasts, Mortal Kombat fans in particular. Xbox Live is holding a Free Play Days event where Xbox Live Gold members can play Mortal Kombat X for free from now until Sunday, March 10 at 11:59 PM PST / 2:59 AM EST on Monday.
 
