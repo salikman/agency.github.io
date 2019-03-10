@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "World Of Warcraft Classic’s Demo Bugs Weren’t Actually Bugs"
-description: "Back in November of last year Blizzard launched a limited time demo of classic World of Warcraft"
+title:  World Of Warcraft Classic’s Demo Bugs Weren’t Actually Bugs
+description: Back in November of last year Blizzard launched a limited time demo of classic World of Warcraft
+crumbtitle: World Of Warcraft Classic’s Demo
 ---
 Back in November of last year Blizzard launched a limited time demo of classic World of Warcraft, available during BlizzCon to both ticket holders and virtual ticket holders. It turns out those bugs players thought it had were actually features of the original game.
 
