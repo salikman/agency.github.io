@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Devil May Cry 5 Tips: How To See The Secret Ending In Short Time
-description: In Devil May Cry 5, you'll need to improve your skills in combat to see some
+title:  "Devil May Cry 5 Tips: How To See The Secret Ending In Short Time"
+description: "In Devil May Cry 5, you'll need to improve your skills in combat to see some"
 ---
 In Devil May Cry 5, you'll need to improve your skills in combat to see some of the game's most exciting and satisfying moments. Just like in previous games in the series, Capcom's action game features some hidden secrets to uncover, and they'll require players to put their skills to the test in order to unlock them. Though in a , which feature post-credits easter eggs at game's end, Devil May Cry 5's secret ending can be seen during the opening mission of the game.
 
