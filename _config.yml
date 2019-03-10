@@ -16,3 +16,7 @@ plugins:
   - jekyll-feed
 gems:
   - jekyll-sitemap
+breadcrumbs:
+  root:
+    hide: true  # show breadcrumbs on root/home page
+    image: true # Show image or title text
