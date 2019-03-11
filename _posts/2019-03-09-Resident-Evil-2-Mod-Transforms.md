@@ -3,6 +3,8 @@ layout: post
 title:  "Resident Evil 2s Mr. X"
 description: "There are two kinds of people in this life"
 crumbtitle: "Resident Evil 2"
+tags: ResidentEvil2 PCs
+author: salikman
 ---
 There are two kinds of people in this life. Those who ask why, and those who ask why not? The maker of this madcap mod that transforms Resident Evil 2’s Mr. X into Thomas the Tank Engine is definitely one of the why nots.
 
