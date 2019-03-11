@@ -1,3 +1,11 @@
 _site
 .sass-cache
 .jekyll-metadata
+_windows
+codestyles
+colors
+colors.scheme.xml
+debugger.xml
+github.xml
+ignore.xml
+php.xml
